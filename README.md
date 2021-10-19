@@ -1,5 +1,5 @@
 # CursoSQL del canal de Píldoras Informáticas
-Accede al curso en youtube(https://www.youtube.com/watch?v=iOiyJgnN71c&list=PLU8oAlHdN5Bmx-LChV4K3MbHrpZKefNwn)
+Accede al [curso en youtube](https://www.youtube.com/watch?v=iOiyJgnN71c&list=PLU8oAlHdN5Bmx-LChV4K3MbHrpZKefNwn)
 
 ## Requisitos para leer el Jupyter Notebook con las notas del curso
 - Python 3 y la herramienta pip.
