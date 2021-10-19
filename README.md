@@ -11,4 +11,4 @@ Accede al [curso en youtube](https://www.youtube.com/watch?v=iOiyJgnN71c&list=PL
 ## Archivos del repositorio
 Además del entorno virtual, el creador del curso facilita:
 - Base de datos en access
-- Tabla de Productos y de Clientes importada en formato .ods
+- Tabla de Productos y de Clientes importada en formato .ods y modificadas según los vídeos del curso
